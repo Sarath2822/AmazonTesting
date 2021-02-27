@@ -14,6 +14,6 @@ public class Base {
 	
 	@Test
 	public void siteLaunch() {
-		
+		System.out.println();
 	}
 }
